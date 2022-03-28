@@ -13,6 +13,7 @@ image_metadata:
   image-alt: A bronze statue of a woman speaking into a microphone.
 learning_resource_types: []
 ocw_type: OCWImage
+parent_uid: null
 resourcetype: Image
 title: WGS-S10s21.jpg
 uid: ab9fee22-1168-801d-4d31-29c9f06437d2

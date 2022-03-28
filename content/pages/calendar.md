@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: CourseSection
+parent_uid: null
 title: Calendar
 uid: ab396777-e185-38e3-0a0e-594c41f5821a
 ---
@@ -15,7 +16,7 @@ uid: ab396777-e185-38e3-0a0e-594c41f5821a
 **Session 2**
 
 *   In-class viewing: “[From Park Bench to Lab Bench-What Kind of Future Are We Designing?: Ruha Benjamin-TedXBaltimore](https://www.youtube.com/watch?v=_8RrX4hjCr0).” YouTube.
-*   Reading response to Bailey and Peoples article due (see [Readings]({{< baseurl >}}/pages/readings) section)
+*   Reading response to Bailey and Peoples article due (see {{< resource_link faba7fca-0347-13f7-3b10-3ae0a3045d75 "Readings" >}} section)
 
 **Session 3**
 
