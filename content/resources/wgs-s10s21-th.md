@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/wgs-s10-black-feminist-health-science-studies-spring-2021/13777f8b158ce1f3b88e4d2a55e267f2_WGS-S10s21-th.jpg
+file: /courses/wgs-s10-black-feminist-health-science-studies-spring-2021/13777f8b158ce1f3b88e4d2a55e267f2_WGS-S10s21-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: "The Fannie Lou Hamer Memorial Statue in Ruleville, MS. Hamer\u2019s famous\
@@ -13,7 +13,6 @@ image_metadata:
   image-alt: A bronze statue of a woman speaking into a microphone.
 learning_resource_types: []
 ocw_type: OCWImage
-parent_uid: null
 resourcetype: Image
 title: WGS-S10s21-th.jpg
 uid: 13777f8b-158c-e1f3-b88e-4d2a55e267f2
