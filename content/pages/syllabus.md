@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section includes general information about the course including
+  the course description, course text, and the grading policy.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: fa219d65-882c-7277-5697-f9643e9a1144
 ---
@@ -41,7 +45,7 @@ Petry, Ann. _The Street_. Mariner Books, 1998. ISBN: ‎9780395901496. \[Preview
 
 Roberts, Dorothy. _Fatal Invention: How Science, Politics, and Big Business Re-create Race in the Twenty-first Century_. The New Press, 2012. ISBN: ‎9781595588340. \[Preview with [Google Books](https://www.google.com/books/edition/Fatal_Invention/yb7xxeSczFYC?hl=en&gbpv=1)\]
 
-For additional readings, see the [Readings]({{< baseurl >}}/pages/readings) section.
+For additional readings, see the {{% resource_link faba7fca-0347-13f7-3b10-3ae0a3045d75 "Readings" %}} section.
 
 Grading Policy
 --------------
@@ -107,9 +111,9 @@ Podcast
 
 {{< tableclose >}}
 
-For additional information, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
+For additional information, see the {{% resource_link 5548df25-cbc0-8695-bb9d-4315676b2ffb "Assignments" %}} section.
 
-To complete this course with an A, you will need to gain a total of 93 to 100 points. You will have the opportunity to choose the assignments and readings that you will complete to allow you to arrive at the points that are needed. As you choose how to proceed through this course, do think carefully about your research interests, projects, future academic and/or professional goals, and skills you would like to acquire. See the [Readings]({{< baseurl >}}/pages/readings) section for articles and books that will be linked to the different assignments.
+To complete this course with an A, you will need to gain a total of 93 to 100 points. You will have the opportunity to choose the assignments and readings that you will complete to allow you to arrive at the points that are needed. As you choose how to proceed through this course, do think carefully about your research interests, projects, future academic and/or professional goals, and skills you would like to acquire. See the {{% resource_link faba7fca-0347-13f7-3b10-3ae0a3045d75 "Readings" %}} section for articles and books that will be linked to the different assignments.
 
 _Extra Points_
 
