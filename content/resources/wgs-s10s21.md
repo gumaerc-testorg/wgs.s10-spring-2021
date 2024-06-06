@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/wgs-s10-black-feminist-health-science-studies-spring-2021/ab9fee221168801d4d3129c9f06437d2_WGS-S10s21.jpg
+file_size: 22596
 file_type: image/jpeg
 image_metadata:
   caption: "The Fannie Lou Hamer Memorial Statue in Ruleville, MS. Hamer\u2019s famous\
