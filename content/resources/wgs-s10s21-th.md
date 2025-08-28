@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/wgs-s10-black-feminist-health-science-studies-spring-2021/13777f8b158ce1f3b88e4d2a55e267f2_WGS-S10s21-th.jpg
+file: /ol-ocw-studio-app/courses/wgs-s10-black-feminist-health-science-studies-spring-2021/13777f8b158ce1f3b88e4d2a55e267f2_WGS-S10s21-th.jpg
 file_size: 7510
 file_type: image/jpeg
 image_metadata:
