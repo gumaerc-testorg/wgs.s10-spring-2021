@@ -12,23 +12,23 @@ uid: ab396777-e185-38e3-0a0e-594c41f5821a
 
 - Introductions: Hey! How are you? Who are you? Why are you here?
 - Syllabus
-- In-class discussion: {{% resource_link "74043dcb-f4ed-41ff-a8b2-84242b8dbe72" "“The Combahee River Collective Statement” (PDF)" %}}
+- In-class discussion: [“The Combahee River Collective Statement” (PDF)](https://americanstudies.yale.edu/sites/default/files/files/Keyword%20Coalition_Readings.pdf)
 
 **Session 2**
 
-- In-class viewing: “{{% resource_link "4542f7fb-2bc1-44b0-bf48-ff4ffc1194ef" "From Park Bench to Lab Bench-What Kind of Future Are We Designing?: Ruha Benjamin-TedXBaltimore" %}}.” YouTube.
+- In-class viewing: “[From Park Bench to Lab Bench-What Kind of Future Are We Designing?: Ruha Benjamin-TedXBaltimore](https://www.youtube.com/watch?v=_8RrX4hjCr0).” YouTube.
 - Reading response to Bailey and Peoples article due (see {{% resource_link faba7fca-0347-13f7-3b10-3ae0a3045d75 "Readings" %}} section)
 
 **Session 3**
 
-- Guest: {{% resource_link "e3e6c38f-53c2-4704-8c05-27b33025a6fc" "Dr. Nicole Charles" %}}
+- Guest: [Dr. Nicole Charles](https://www.drnicolecharles.com/)
 - Extra credit opportunity: “Ethnography Workshop: Ethnographies of Race and Racial Domination,” Northwestern University
 
 **Session 4**
 
 - Form podcast assignment groups
-- Pick a topic from a post on the {{% resource_link "da270d1f-b71e-48a9-a1cb-4270a073255c" "Black Feminist Health Science Studies (BFHSS)" %}} Tumblr site and brainstorm
-- Extra credit opportunity: “{{% resource_link "29d6f2f2-45dc-4e97-bf69-ae76ba0563b5" "Black Health Matters Conference: Taking an Intersectional Approach to Systemic Racism" %}},” Harvard University
+- Pick a topic from a post on the [Black Feminist Health Science Studies (BFHSS)](https://bfhss.tumblr.com/) Tumblr site and brainstorm
+- Extra credit opportunity: “[Black Health Matters Conference: Taking an Intersectional Approach to Systemic Racism](https://www.harvardblackhealth.org/),” Harvard University
 
 **Session 5**
 
@@ -36,7 +36,7 @@ uid: ab396777-e185-38e3-0a0e-594c41f5821a
 
 **Session 6**
 
-- In-class discussion: Williams, Patricia J. “{{% resource_link "2a5012b6-0833-40ae-9dbe-bba014914fe1" "Closing Reflections: The Endless Looping of Public Health and Scientific Racism.” (PDF)" %}} In _Assessing Legal Responses to COVID-19_. Public Health Law Watch, an initiative of the George Consortium, August 2020.
+- In-class discussion: Williams, Patricia J. “[Closing Reflections: The Endless Looping of Public Health and Scientific Racism.” (PDF)](https://static1.squarespace.com/static/5956e16e6b8f5b8c45f1c216/t/5f4d64825b2aa5391711e947/1598907525348/ClosingReflection_COVIDPolicyPlaybook-Aug2020.pdf) In _Assessing Legal Responses to COVID-19_. Public Health Law Watch, an initiative of the George Consortium, August 2020.
 - Podcast outline due
 
 **Session 7**
@@ -50,18 +50,18 @@ uid: ab396777-e185-38e3-0a0e-594c41f5821a
 
 **Session 9**
 
-- {{% resource_link "2dd96d2d-e3a9-4e48-b33a-11c7a79d3640" "Black Feminist Health Science Studies Symposium" %}}
+- [Black Feminist Health Science Studies Symposium](https://blackfeministhealth.com/projects/symposium/)
 
 **Session 10**
 
 - Symposium debrief due
 - In-class discussion: _The Street_ 
-- Extra credit opportunity: “{{% resource_link "7fafd448-0535-4e72-a704-95ddcbd7c5c8" "The Fight to be Heard, Seen and Understood: Uncovering Covid-19 Policies and Practices in Global Health" %}},” Northeastern University
+- Extra credit opportunity: “[The Fight to be Heard, Seen and Understood: Uncovering Covid-19 Policies and Practices in Global Health](https://cssh.northeastern.edu/upcoming-event-to-examine-covid-19-and-health-disaparities/),” Northeastern University
 
 **Session 11**
 
-- Guest: {{% resource_link "252694ff-e9a9-4cdc-9405-df33eedf26e3" "Demita Frazier" %}}
-- In-class discussion: {{% resource_link "74043dcb-f4ed-41ff-a8b2-84242b8dbe72" "“The Combahee River Collective Statement” (PDF)" %}}
+- Guest: [Demita Frazier](https://en.wikipedia.org/wiki/Demita_Frazier)
+- In-class discussion: [“The Combahee River Collective Statement” (PDF)](https://americanstudies.yale.edu/sites/default/files/files/Keyword%20Coalition_Readings.pdf)
 - In-class discussion: _The Street_
 
 **Session 12**
@@ -70,7 +70,7 @@ uid: ab396777-e185-38e3-0a0e-594c41f5821a
 
 **Session 13**
 
-- In-class viewing: “{{% resource_link "d71f9edb-35e3-47b7-b884-1af42b90b7ec" "The Story of Sarah Baartman by Dr. Natasha Gordon-Chipembere" %}}.” YouTube.
+- In-class viewing: “[The Story of Sarah Baartman by Dr. Natasha Gordon-Chipembere](https://www.youtube.com/watch?v=UgT1ctCuyyM).” YouTube.
 
 **Session 14**
 
@@ -78,18 +78,18 @@ uid: ab396777-e185-38e3-0a0e-594c41f5821a
 
 **Session 15**
 
-- In-class viewing: “{{% resource_link "425ed939-1dfa-4102-9d15-a9dad5551088" "Social Justice: The Women of Cancer Alley" %}}” playlist. YouTube.
-- In-class viewing: “{{% resource_link "c414c51a-0429-4fd6-9dd2-3de02aebe38b" "Greening the Ghetto - Majora Carter" %}}.” 2006. Ted.
-- In-class discussion: Pulido, Laura. “{{% resource_link "e30a36e7-a23e-4fc9-966a-6ac7aa5c60ba" "Flint, Environmental Racism, and Racial Capitalism" %}}.” _Capitalism Nature Socialism_ 27, no. 3 (2016): 1–16.
+- In-class viewing: “[Social Justice: The Women of Cancer Alley](https://www.youtube.com/playlist?list=PL2zMrq22-Y2t5jbGmwYB1-o443Daya6e0)” playlist. YouTube.
+- In-class viewing: “[Greening the Ghetto - Majora Carter](https://www.ted.com/talks/majora_carter_greening_the_ghetto/transcript?language=en).” 2006. Ted.
+- In-class discussion: Pulido, Laura. “[Flint, Environmental Racism, and Racial Capitalism](https://www.tandfonline.com/doi/full/10.1080/10455752.2016.1213013).” _Capitalism Nature Socialism_ 27, no. 3 (2016): 1–16.
 
 **Session 16**
 
-- In-class viewing: {{% resource_link "af87da09-12b6-4962-8dab-0abff8154ebd" "_Sins Invalid: An Unshamed Claim to Beauty in the Face of Invisibility_" %}}. Directed by Patricia Berne. Color, 32 mins. 2013.
-- In-class discussion: Roberts, Dorothy. “The Dark Side of Birth Control.” Chapter 2 in _Killing the Black Body: Race, Reproduction, and the Meaning of Liberty_. Vintage, 1998. ISBN: ‎9780679758693. \[Preview with {{% resource_link "4eb709e2-c57f-4828-9f77-2de260b9488d" "Google Books" %}}\]
+- In-class viewing: [_Sins Invalid: An Unshamed Claim to Beauty in the Face of Invisibility_](https://mit.kanopy.com/video/sins-invalid-unashamed-claim-beauty). Directed by Patricia Berne. Color, 32 mins. 2013.
+- In-class discussion: Roberts, Dorothy. “The Dark Side of Birth Control.” Chapter 2 in _Killing the Black Body: Race, Reproduction, and the Meaning of Liberty_. Vintage, 1998. ISBN: ‎9780679758693. \[Preview with [Google Books](https://www.google.com/books/edition/Killing_the_Black_Body/nhfSAgAAQBAJ?hl=en&gbpv=1)\]
 
 **Session 17**
 
-- In-class discussion: Green, Kai M., and Marquis Bey. “{{% resource_link "64170d10-b50e-4403-bd9e-108c835eddc9" "Where Black Feminist Thought and Trans\* Feminism Meet: A Conversation" %}}.” _Souls: A Critical Journal of Black Politics, Culture, and Society_ 19, no. 4 (2017): 438–54.
+- In-class discussion: Green, Kai M., and Marquis Bey. “[Where Black Feminist Thought and Trans\* Feminism Meet: A Conversation](https://www.tandfonline.com/doi/full/10.1080/10999949.2018.1434365).” _Souls: A Critical Journal of Black Politics, Culture, and Society_ 19, no. 4 (2017): 438–54.
 
 **Session 18**
 
