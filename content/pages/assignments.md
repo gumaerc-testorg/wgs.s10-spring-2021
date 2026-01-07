@@ -13,7 +13,7 @@ Reading Responses
 
 You will be graded on the evolution of your responses over the course of the class. Each entry should begin with one word that you think best describes the overall message of the text. You will then write about how you think that one word is evocative of the message of your chosen reading. 
 
-*   (10 points) Read the following article and write a one-page response: Bailey, Moya, and Whitney Peoples. “{{% resource_link "b304c972-c4bc-4f9b-bb72-224f0643982a" "Towards a Black Feminist Health Science Studies" %}}.” _Catalyst: Feminism, Theory, Technoscience_ 3, no. 2 (2017): 1–27.
+*   (10 points) Read the following article and write a one-page response: Bailey, Moya, and Whitney Peoples. “[Towards a Black Feminist Health Science Studies](https://catalystjournal.org/index.php/catalyst/article/view/28844/html_17).” _Catalyst: Feminism, Theory, Technoscience_ 3, no. 2 (2017): 1–27.
 *   (10 points) Read and analyze one of the articles included in the {{% resource_link faba7fca-0347-13f7-3b10-3ae0a3045d75 "Readings" %}} section in a one-page write-up.
 *   (20 points) Read and analyze one of the books included in the {{% resource_link faba7fca-0347-13f7-3b10-3ae0a3045d75 "Readings" %}} section in a two-page write-up.
 
@@ -38,6 +38,6 @@ The podcast will be 40 points of the final course grade.
 
 ### Student Podcasts
 
-“{{% resource_link "69efb9af-0244-4ad4-8637-1a3d8e3a3e2e" "‘Abstinence Is Key’: Sex Ed That Doesn't Click" %}}.” YouTube.
+“[‘Abstinence Is Key’: Sex Ed That Doesn't Click](https://youtu.be/6au52dJFXL0?t=1365).” YouTube.
 
-“{{% resource_link "c6639e61-5bfb-4bde-afd8-1d75598afac6" "Parallels between Prisons and Psychiatry" %}}.” YouTube.
+“[Parallels between Prisons and Psychiatry](https://youtu.be/6au52dJFXL0?t=2110).” YouTube.
